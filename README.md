@@ -17,7 +17,7 @@ AlgorithmStduy/
 ├── README.md
 ├── .gitignore
 ├── Programmers/
-│ ├── gipark/
+│ ├── jeoniee/
 │ │ ├── README.md
 │ │ ├── in one's own way
 │ │ ├── ...
@@ -40,10 +40,10 @@ AlgorithmStduy/
 
 ### 🛹 진행상황
 **1차 :: 프로그래머스 기초문제**
-* gipark : [프로그래머스 기초문제](./Programmers/gipark)
-* jeoniee : [프로그래머스 기초문제](./프로그래머스)
 
 **2차 :: 프로그래머스 입문문제**
+
+**2-1차 :: 인프런 알고리즘**
 
 **3차 :: 프로그래머스 알고리즘 고득점 Kit**  
 **3차 :: 프로그래머스 SQL 고득점 Kit**  
